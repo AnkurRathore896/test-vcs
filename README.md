@@ -1,1 +1,4 @@
-# test-vcs
+# Test-vcs
+
+react install
+npm install
